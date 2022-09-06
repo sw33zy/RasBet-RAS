@@ -1,0 +1,20 @@
+.link {
+    color:white;
+    text-decoration:0;
+}
+
+.link:hover {
+   color:#DDA74F;
+}
+
+.link:focus {
+    color:#DDA74F;
+}
+
+.link-focus {
+    color:#DDA74F;
+    text-decoration:0;
+}
+
+.textGold { color:#DDA74F;font-weight:bold;font-style: italic; font-family:Trebuchet MS;font-size:30px }
+.textWhite { color:#FFFFFF;font-weight:bold;font-style: italic; font-family:Trebuchet MS;font-size:30px }
